@@ -674,9 +674,7 @@ margin-bottom: 24px;
   border: none;
 
   position: relative;
-
-  display: relative;
-
+  display: block;
   transition: background-color var(--transition-duration-and-fun);
 }
 
