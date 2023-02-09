@@ -629,7 +629,6 @@ margin-bottom: 24px;
 
 .footer-subscribe-form {
   margin-left: 80px;
-
 }
 
 .footer-form {
@@ -648,7 +647,6 @@ margin-bottom: 24px;
 }
 
 .subscribe-form-input {
-
   width: 264px;
   height: 40px;
   background-color: var(--primary-color);
@@ -677,7 +675,7 @@ margin-bottom: 24px;
   letter-spacing: 0.04em;
   color: var(--accent-color);
   padding: 8px 64px 8px 24px;
-  margin-left: 48px;
+  margin-left: 24px;
   background-color: #4d5ae5;
 
   border-radius: 4px;
@@ -760,7 +758,7 @@ margin-bottom: 24px;
 .modal-close-btn:hover,
 .modal-close-btn:focus {
   background-color: var(--active-color);
-  fill: var(--accent-color)
+  fill: var(--accent-color);
 }
 
 .modal-title {
@@ -841,7 +839,6 @@ margin-bottom: 24px;
 
 .modal-form-input-wraper {
   position: relative;
-  
 }
 
 .modal-form-input-icon {
